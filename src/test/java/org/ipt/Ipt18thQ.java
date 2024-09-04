@@ -27,6 +27,7 @@ public class Ipt18thQ {
 		
 		System.out.println(res);
 		System.out.println("code1");
+		System.out.println("code2");
 	}
 
 }
